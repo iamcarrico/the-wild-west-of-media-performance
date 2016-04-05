@@ -14,6 +14,13 @@
       }
     },
     {
+      "filename": "intro/okor.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "okor"
+      }
+    },
+    {
       "filename": "intro/is.md",
       "attr": {
         "data-state": "intro",
