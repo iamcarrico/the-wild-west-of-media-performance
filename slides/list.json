@@ -60,6 +60,43 @@
   ],
   [
     {
+      "filename": "fonts/fonts.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "fonts"
+      }
+    },
+    {
+      "filename": "fonts/ffo.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "ffo"
+      }
+    },
+    {
+      "filename": "fonts/ga.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "ga"
+      }
+    },
+    {
+      "filename": "fonts/native.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "native"
+      }
+    },
+    {
+      "filename": "fonts/fallbacks.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "fallbacks"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",
