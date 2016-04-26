@@ -60,6 +60,38 @@
   ],
   [
     {
+      "filename": "plan/plan.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "plan"
+      }
+    },
+    {
+      "filename": "plan/big.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "big"
+      }
+    },
+    {
+      "filename": "plan/micro.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "micro"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "images/images.md",
+      "attr": {
+        "data-state": "images",
+        "id": "images"
+      }
+    }
+  ]
+  [
+    {
       "filename": "fonts/fonts.md",
       "attr": {
         "data-state": "fonts",
@@ -92,6 +124,15 @@
       "attr": {
         "data-state": "fonts",
         "id": "fallbacks"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "working/working.md",
+      "attr": {
+        "data-state": "working",
+        "id": "working"
       }
     }
   ],
