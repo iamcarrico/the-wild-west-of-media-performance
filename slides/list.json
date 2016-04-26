@@ -30,6 +30,36 @@
   ],
   [
     {
+      "filename": "constraints/constraints.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "constraints"
+      }
+    },
+    {
+      "filename": "constraints/redesign.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "redesign"
+      }
+    },
+    {
+      "filename": "constraints/verticals.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "verticals"
+      }
+    },
+    {
+      "filename": "constraints/ads.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "ads"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",
