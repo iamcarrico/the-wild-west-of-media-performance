@@ -265,3 +265,21 @@ $bg-colors: (
     display: none;
   }
 }
+
+
+/// Custom work
+.icon {
+
+	&-green {
+		fill: #26A65B;
+	}
+
+	&-yellow {
+		fill: #FFDB8B;
+	}
+
+	&-red {
+		fill: #D64541;
+	}
+
+}

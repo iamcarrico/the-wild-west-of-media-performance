@@ -7,6 +7,14 @@
       }
     },
     {
+      "filename": "intro/wild-west.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "wild-west",
+        "data-background": "/resources/images/intro/wild-west.gif"
+      }
+    },
+    {
       "filename": "intro/whoami.md",
       "attr": {
         "data-state": "intro",
@@ -54,7 +62,7 @@
       "filename": "constraints/ads.md",
       "attr": {
         "data-state": "constraints",
-        "id": "ads"
+        "id": "ad-constraints"
       }
     }
   ],
@@ -134,8 +142,15 @@
         "data-state": "ads",
         "id": "ads"
       }
+    },
+    {
+      "filename": "ads/internal.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "internal-ads"
+      }
     }
-  ]
+  ],
   [
     {
       "filename": "working/working.md",
