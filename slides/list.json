@@ -7,6 +7,14 @@
       }
     },
     {
+      "filename": "intro/wild-west.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "wild-west",
+        "data-background": "/resources/images/intro/wild-west.gif"
+      }
+    },
+    {
       "filename": "intro/whoami.md",
       "attr": {
         "data-state": "intro",
@@ -14,10 +22,141 @@
       }
     },
     {
+      "filename": "intro/okor.md",
+      "attr": {
+        "data-state": "intro",
+        "id": "okor"
+      }
+    },
+    {
       "filename": "intro/is.md",
       "attr": {
         "data-state": "intro",
         "id": "is"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "constraints/constraints.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "constraints"
+      }
+    },
+    {
+      "filename": "constraints/redesign.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "redesign"
+      }
+    },
+    {
+      "filename": "constraints/verticals.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "verticals"
+      }
+    },
+    {
+      "filename": "constraints/ads.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "ad-constraints"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "plan/plan.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "plan"
+      }
+    },
+    {
+      "filename": "plan/big.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "big"
+      }
+    },
+    {
+      "filename": "plan/micro.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "micro"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "images/images.md",
+      "attr": {
+        "data-state": "images",
+        "id": "images"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "fonts/fonts.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "fonts"
+      }
+    },
+    {
+      "filename": "fonts/ffo.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "ffo"
+      }
+    },
+    {
+      "filename": "fonts/ga.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "ga"
+      }
+    },
+    {
+      "filename": "fonts/native.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "native"
+      }
+    },
+    {
+      "filename": "fonts/fallbacks.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "fallbacks"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "ads/ads.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "ads"
+      }
+    },
+    {
+      "filename": "ads/internal.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "internal-ads"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "working/working.md",
+      "attr": {
+        "data-state": "working",
+        "id": "working"
       }
     }
   ],

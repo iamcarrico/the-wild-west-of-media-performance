@@ -413,3 +413,12 @@ body {
   background: rgba(0, 0, 0, 0.14); }
   .intro #hashtag {
     display: none; }
+
+.icon-green {
+  fill: #26A65B; }
+
+.icon-yellow {
+  fill: #FFDB8B; }
+
+.icon-red {
+  fill: #D64541; }
