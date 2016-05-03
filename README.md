@@ -1,3 +1,21 @@
+Using this presentation repo:
+  Setup:
+    `npm install`
+  Run:
+    `npm start`
+  Show slide notes:
+    `s`
+  Weird zoom out "overview" mode:
+    `o` or `Esc`
+  Black out screen:
+    `b` or `.`
+
+
+
+
+
+
+
 The Wild West of Media Performance: A Vox Story
 ===============================================
 
