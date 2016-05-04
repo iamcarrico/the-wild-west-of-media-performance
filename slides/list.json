@@ -101,6 +101,7 @@
       "filename": "lessons/first.md",
       "attr": {
         "data-state": "lessons",
+        "data-background": "#00944A",
         "id": "first"
       }
     }
@@ -145,6 +146,7 @@
       "filename": "lessons/culture.md",
       "attr": {
         "data-state": "lessons",
+        "data-background": "#00944A",
         "id": "culture"
       }
     }
@@ -182,6 +184,7 @@
       "filename": "lessons/room.md",
       "attr": {
         "data-state": "lessons",
+        "data-background": "#00944A",
         "id": "room"
       }
     }
@@ -198,6 +201,7 @@
       "filename": "lessons/data.md",
       "attr": {
         "data-state": "lessons",
+        "data-background": "#00944A",
         "id": "data"
       }
     }
@@ -229,6 +233,7 @@
       "filename": "wrap/fin.md",
       "attr": {
         "data-state": "logo",
+        "data-background": "white",
         "id": "fin"
       }
     }

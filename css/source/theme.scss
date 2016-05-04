@@ -228,7 +228,7 @@ $bg-colors: (
   }
 
   .intro & {
-    background-color: black;
+    //background-color: black;
   }
 
 	.logo & {
@@ -236,11 +236,11 @@ $bg-colors: (
 	}
 
 	.lessons & {
-		background-color: map-get($bg-colors, 'dark-green');
+		//background-color: map-get($bg-colors, 'dark-green');
 	}
 
 	.deploybot & {
-		background-color: map-get($bg-colors, 'deploy-purple');
+		//background-color: map-get($bg-colors, 'deploy-purple');
 	}
 }
 

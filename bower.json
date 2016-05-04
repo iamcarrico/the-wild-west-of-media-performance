@@ -2,7 +2,7 @@
   "name": "the-wild-west-of-media-performance",
   "version": "0.0.0",
   "dependencies": {
-    "reveal.js": "~3.1.0",
+    "reveal.js": "~3.3.0",
     "highlightjs": "~8.5.0"
   }
 }
