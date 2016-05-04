@@ -221,6 +221,7 @@ $bg-colors: (
 );
 
 .backgrounds {
+	transition: background 0.5s linear;
 
   .alert .reveal & { // Extra class to override reveal.
     background-color: map-get($bg-colors, 'red');
@@ -234,6 +235,10 @@ $bg-colors: (
 		background-color: white;
 	}
 
+	.lessons & {
+		background-color: map-get($bg-colors, 'dark-green');
+	}
+
 	.deploybot & {
 		background-color: map-get($bg-colors, 'deploy-purple');
 	}
@@ -241,6 +246,11 @@ $bg-colors: (
 
 [data-state="intro"] {
   color: white;
+
+	img {
+		width: 25%;
+		float: left;
+	}
 }
 
 [data-state="shadow"] {

@@ -1,5 +1,7 @@
 # Ian Carrico
 
+![Ian Carricp, the face](/resources/images/intro/headshot.jpg)
+
 Web Performance Artist, Vox Media
 
 * [iamcarrico.com](https://iamcarrico.com)

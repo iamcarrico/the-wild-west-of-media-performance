@@ -383,20 +383,24 @@ body {
 .intro .reveal .controls div.navigate-down {
   border-top-color: white; }
 
-.alert .reveal .backgrounds {
-  background-color: #c8321e; }
-
-.intro .backgrounds {
-  background-color: black; }
-
-.logo .backgrounds {
-  background-color: white; }
-
-.deploybot .backgrounds {
-  background-color: #665B7A; }
+.backgrounds {
+  transition: background 0.5s linear; }
+  .alert .reveal .backgrounds {
+    background-color: #c8321e; }
+  .intro .backgrounds {
+    background-color: black; }
+  .logo .backgrounds {
+    background-color: white; }
+  .lessons .backgrounds {
+    background-color: #00944A; }
+  .deploybot .backgrounds {
+    background-color: #665B7A; }
 
 [data-state="intro"] {
   color: white; }
+  [data-state="intro"] img {
+    width: 25%;
+    float: left; }
 
 [data-state="shadow"] h1, [data-state="shadow"] h2, [data-state="shadow"] h3, [data-state="shadow"] h4, [data-state="shadow"] h5, [data-state="shadow"] p {
   color: white;
