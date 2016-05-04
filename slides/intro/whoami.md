@@ -1,6 +1,6 @@
 # Ian Carrico
 
-![Ian Carricp, the face](/resources/images/intro/headshot.jpg)
+![Ian Carrico, the face](https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/intro/headshot.jpg)
 
 Web Performance Artist, Vox Media
 
