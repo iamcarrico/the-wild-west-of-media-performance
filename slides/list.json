@@ -11,7 +11,7 @@
       "attr": {
         "data-state": "intro",
         "id": "wild-west",
-        "data-background": "/resources/images/intro/wild-west.gif"
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/intro/wild-west.gif"
       }
     },
     {
@@ -96,6 +96,13 @@
         "data-state": "images",
         "id": "images"
       }
+    },
+    {
+      "filename": "lessons/first.md",
+      "attr": {
+        "data-state": "lessons",
+        "id": "first"
+      }
     }
   ],
   [
@@ -133,6 +140,13 @@
         "data-state": "fonts",
         "id": "fallbacks"
       }
+    },
+    {
+      "filename": "lessons/culture.md",
+      "attr": {
+        "data-state": "lessons",
+        "id": "culture"
+      }
     }
   ],
   [
@@ -149,6 +163,27 @@
         "data-state": "ads",
         "id": "internal-ads"
       }
+    },
+    {
+      "filename": "ads/header-bidding.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "header-bidding"
+      }
+    },
+    {
+      "filename": "ads/calling.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "calling"
+      }
+    },
+    {
+      "filename": "lessons/room.md",
+      "attr": {
+        "data-state": "lessons",
+        "id": "room"
+      }
     }
   ],
   [
@@ -157,6 +192,13 @@
       "attr": {
         "data-state": "working",
         "id": "working"
+      }
+    },
+    {
+      "filename": "lessons/data.md",
+      "attr": {
+        "data-state": "lessons",
+        "id": "data"
       }
     }
   ],
