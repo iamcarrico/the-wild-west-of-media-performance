@@ -98,6 +98,41 @@
       }
     },
     {
+      "filename": "images/delivery.md",
+      "attr": {
+        "data-state": "images",
+        "id": "delivery"
+      }
+    },
+    {
+      "filename": "images/processing.md",
+      "attr": {
+        "data-state": "images",
+        "id": "processing"
+      }
+    },
+    {
+      "filename": "images/formats.md",
+      "attr": {
+        "data-state": "images",
+        "id": "formats"
+      }
+    },
+    {
+      "filename": "images/timing.md",
+      "attr": {
+        "data-state": "images",
+        "id": "timing"
+      }
+    },
+    {
+      "filename": "images/timing-two.md",
+      "attr": {
+        "data-state": "images",
+        "id": "timing-two"
+      }
+    },
+    {
       "filename": "lessons/first.md",
       "attr": {
         "data-state": "lessons",
