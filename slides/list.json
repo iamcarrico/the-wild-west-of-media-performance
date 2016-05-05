@@ -3,7 +3,8 @@
     {
       "filename": "intro/index.md",
       "attr": {
-          "data-state": "intro"
+          "data-state": "intro",
+          "data-background": "var(--intro-bg-color)"
       }
     },
     {
@@ -18,21 +19,24 @@
       "filename": "intro/whoami.md",
       "attr": {
         "data-state": "intro",
-        "id": "who"
+        "id": "who",
+        "data-background": "var(--intro-bg-color)"
       }
     },
     {
       "filename": "intro/okor.md",
       "attr": {
         "data-state": "intro",
-        "id": "okor"
+        "id": "okor",
+        "data-background": "var(--intro-bg-color)"
       }
     },
     {
       "filename": "intro/is.md",
       "attr": {
         "data-state": "intro",
-        "id": "is"
+        "id": "is",
+        "data-background": "var(--intro-bg-color)"
       }
     }
   ],
@@ -41,28 +45,32 @@
       "filename": "constraints/constraints.md",
       "attr": {
         "data-state": "constraints",
-        "id": "constraints"
+        "id": "constraints",
+        "data-background": "var(--constraints-bg-color)"
       }
     },
     {
       "filename": "constraints/redesign.md",
       "attr": {
         "data-state": "constraints",
-        "id": "redesign"
+        "id": "redesign",
+        "data-background": "var(--constraints-bg-color)"
       }
     },
     {
       "filename": "constraints/verticals.md",
       "attr": {
         "data-state": "constraints",
-        "id": "verticals"
+        "id": "verticals",
+        "data-background": "var(--constraints-bg-color)"
       }
     },
     {
       "filename": "constraints/ads.md",
       "attr": {
         "data-state": "constraints",
-        "id": "ad-constraints"
+        "id": "ad-constraints",
+        "data-background": "var(--constraints-bg-color)"
       }
     }
   ],
@@ -71,21 +79,24 @@
       "filename": "plan/plan.md",
       "attr": {
         "data-state": "plan",
-        "id": "plan"
+        "id": "plan",
+        "data-background": "var(--plan-bg-color)"
       }
     },
     {
       "filename": "plan/big.md",
       "attr": {
         "data-state": "plan",
-        "id": "big"
+        "id": "big",
+        "data-background": "var(--plan-bg-color)"
       }
     },
     {
       "filename": "plan/micro.md",
       "attr": {
         "data-state": "plan",
-        "id": "micro"
+        "id": "micro",
+        "data-background": "var(--plan-bg-color)"
       }
     }
   ],
@@ -94,49 +105,55 @@
       "filename": "images/images.md",
       "attr": {
         "data-state": "images",
-        "id": "images"
+        "id": "images",
+        "data-background": "var(--images-bg-color)"
       }
     },
     {
       "filename": "images/delivery.md",
       "attr": {
         "data-state": "images",
-        "id": "delivery"
+        "id": "delivery",
+        "data-background": "var(--images-bg-color)"
       }
     },
     {
       "filename": "images/processing.md",
       "attr": {
         "data-state": "images",
-        "id": "processing"
+        "id": "processing",
+        "data-background": "var(--images-bg-color)"
       }
     },
     {
       "filename": "images/formats.md",
       "attr": {
         "data-state": "images",
-        "id": "formats"
+        "id": "formats",
+        "data-background": "var(--images-bg-color)"
       }
     },
     {
       "filename": "images/timing.md",
       "attr": {
         "data-state": "images",
-        "id": "timing"
+        "id": "timing",
+        "data-background": "var(--images-bg-color)"
       }
     },
     {
       "filename": "images/timing-two.md",
       "attr": {
         "data-state": "images",
-        "id": "timing-two"
+        "id": "timing-two",
+        "data-background": "var(--images-bg-color)"
       }
     },
     {
       "filename": "lessons/first.md",
       "attr": {
         "data-state": "lessons",
-        "data-background": "#00944A",
+        "data-background": "var(--lessons-bg-color)",
         "id": "first"
       }
     }
@@ -146,42 +163,47 @@
       "filename": "fonts/fonts.md",
       "attr": {
         "data-state": "fonts",
-        "id": "fonts"
+        "id": "fonts",
+        "data-background": "var(--fonts-bg-color)"
       }
     },
     {
       "filename": "fonts/ffo.md",
       "attr": {
         "data-state": "fonts",
-        "id": "ffo"
+        "id": "ffo",
+        "data-background": "var(--fonts-bg-color)"
       }
     },
     {
       "filename": "fonts/ga.md",
       "attr": {
         "data-state": "fonts",
-        "id": "ga"
+        "id": "ga",
+        "data-background": "var(--fonts-bg-color)"
       }
     },
     {
       "filename": "fonts/native.md",
       "attr": {
         "data-state": "fonts",
-        "id": "native"
+        "id": "native",
+        "data-background": "var(--fonts-bg-color)"
       }
     },
     {
       "filename": "fonts/fallbacks.md",
       "attr": {
         "data-state": "fonts",
-        "id": "fallbacks"
+        "id": "fallbacks",
+        "data-background": "var(--fonts-bg-color)"
       }
     },
     {
       "filename": "lessons/culture.md",
       "attr": {
         "data-state": "lessons",
-        "data-background": "#00944A",
+        "data-background": "var(--lessons-bg-color)",
         "id": "culture"
       }
     }
@@ -191,35 +213,39 @@
       "filename": "ads/ads.md",
       "attr": {
         "data-state": "ads",
-        "id": "ads"
+        "id": "ads",
+        "data-background": "var(--ads-bg-color)"
       }
     },
     {
       "filename": "ads/internal.md",
       "attr": {
         "data-state": "ads",
-        "id": "internal-ads"
+        "id": "internal-ads",
+        "data-background": "var(--ads-bg-color)"
       }
     },
     {
       "filename": "ads/header-bidding.md",
       "attr": {
         "data-state": "ads",
-        "id": "header-bidding"
+        "id": "header-bidding",
+        "data-background": "var(--ads-bg-color)"
       }
     },
     {
       "filename": "ads/calling.md",
       "attr": {
         "data-state": "ads",
-        "id": "calling"
+        "id": "calling",
+        "data-background": "var(--ads-bg-color)"
       }
     },
     {
       "filename": "lessons/room.md",
       "attr": {
         "data-state": "lessons",
-        "data-background": "#00944A",
+        "data-background": "var(--lessons-bg-color)",
         "id": "room"
       }
     }
@@ -229,14 +255,15 @@
       "filename": "working/working.md",
       "attr": {
         "data-state": "working",
-        "id": "working"
+        "id": "working",
+        "data-background": "var(--working-bg-color)"
       }
     },
     {
       "filename": "lessons/data.md",
       "attr": {
         "data-state": "lessons",
-        "data-background": "#00944A",
+        "data-background": "var(--lessons-bg-color)",
         "id": "data"
       }
     }
@@ -246,7 +273,8 @@
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",
-        "id": "wrap"
+        "id": "wrap",
+        "data-background": "var(--wrap-bg-color)"
       }
     },
     {
@@ -261,7 +289,8 @@
       "filename": "wrap/slides.md",
       "attr": {
         "data-state": "wrap",
-        "id": "slides"
+        "id": "slides",
+        "data-background": "var(--wrap-bg-color)"
       }
     },
     {
