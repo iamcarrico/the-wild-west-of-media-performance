@@ -237,8 +237,8 @@ $vox-colors: (
 :root {
 	--intro-bg-color:				black;
 	--lessons-bg-color: 		map-get($vox-colors, 'product');
-  --constraints-bg-color: map-get($vox-colors, 'voxmedia');
-  --plan-bg-color: 				map-get($vox-colors, 'sbnation');
+	--constraints-bg-color: map-get($vox-colors, 'voxmedia');
+	--plan-bg-color: 				map-get($vox-colors, 'sbnation');
 	--images-bg-color:			map-get($vox-colors, 'vox');
 	--fonts-bg-color:				map-get($vox-colors, 'racked');
 	--ads-bg-color:					$backgroundColor;
