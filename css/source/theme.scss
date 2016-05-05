@@ -212,6 +212,7 @@ html {
   }
 }
 
+
 $bg-colors: (
   'lime-green': #97e52d,
   'dark-green': #00944A,
@@ -220,33 +221,44 @@ $bg-colors: (
   'red': rgba(200, 50, 30, 1)
 );
 
+$vox-colors: (
+	'sbnation': #C52126,
+	'theverge': #FA4B2A,
+	'polygon': #ff0052,
+	'vox': #4f7177,
+	'eater': #e60000,
+	'racked': #d36c66,
+	'voxmedia': #5A9441,
+	'curbed': #eb4c41,
+	'recode': #ed2b23,
+	'product': rgba(2, 177, 27, 1)
+);
+
+:root {
+	--intro-bg-color:				black;
+	--lessons-bg-color: 		map-get($vox-colors, 'product');
+  --constraints-bg-color: map-get($vox-colors, 'voxmedia');
+  --plan-bg-color: 				map-get($vox-colors, 'sbnation');
+	--images-bg-color:			map-get($vox-colors, 'vox');
+	--fonts-bg-color:				map-get($vox-colors, 'racked');
+	--ads-bg-color:					$backgroundColor;
+	--working-bg-color:			map-get($vox-colors, 'polygon');
+	--wrap-bg-color:				$backgroundColor;
+}
+
+
 .backgrounds {
 	transition: background 0.5s linear;
 
   .alert .reveal & { // Extra class to override reveal.
     background-color: map-get($bg-colors, 'red');
   }
-
-  .intro & {
-    //background-color: black;
-  }
-
-	.logo & {
-		background-color: white;
-	}
-
-	.lessons & {
-		//background-color: map-get($bg-colors, 'dark-green');
-	}
-
-	.deploybot & {
-		//background-color: map-get($bg-colors, 'deploy-purple');
-	}
 }
 
 [data-state="intro"] {
   color: white;
 
+	// Headshots!
 	img {
 		width: 25%;
 		float: left;
