@@ -236,6 +236,7 @@ $vox-colors: (
 	'mkbhd': #D50014
 );
 
+// Background colors for the various sections.
 :root {
 	--intro-bg-color:				black;
 	--lessons-bg-color: 		map-get($vox-colors, 'product');
@@ -244,7 +245,7 @@ $vox-colors: (
 	--images-bg-color:			map-get($vox-colors, 'vox');
 	--fonts-bg-color:				map-get($vox-colors, 'racked');
 	--ads-bg-color:					$backgroundColor;
-	--working-bg-color:			map-get($vox-colors, 'polygon');
+	--working-bg-color:			map-get($vox-colors, 'mkbhd');
 	--wrap-bg-color:				$backgroundColor;
 }
 
