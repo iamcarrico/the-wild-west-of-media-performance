@@ -260,6 +260,22 @@
       }
     },
     {
+      "filename": "working/speedcurve.md",
+      "attr": {
+        "data-state": "working",
+        "id": "speedcurve",
+        "data-background": "var(--working-bg-color)"
+      }
+    },
+    {
+      "filename": "working/signal.md",
+      "attr": {
+        "data-state": "working",
+        "id": "signal",
+        "data-background": "var(--working-bg-color)"
+      }
+    },
+    {
       "filename": "lessons/data.md",
       "attr": {
         "data-state": "lessons",
