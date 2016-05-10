@@ -234,6 +234,14 @@
       }
     },
     {
+      "filename": "ads/results.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "ad-results",
+        "data-background": "var(--ads-bg-color)"
+      }
+    },
+    {
       "filename": "lessons/room.md",
       "attr": {
         "data-state": "lessons",
