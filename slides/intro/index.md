@@ -1,3 +1,3 @@
-# The Wild West of Media Performance
+# Media + Ads + Performance
 
 ## A Vox Story
