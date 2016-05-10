@@ -8,14 +8,6 @@
       }
     },
     {
-      "filename": "intro/wild-west.md",
-      "attr": {
-        "data-state": "intro",
-        "id": "wild-west",
-        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/intro/wild-west.gif"
-      }
-    },
-    {
       "filename": "intro/whoami.md",
       "attr": {
         "data-state": "intro",
