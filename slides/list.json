@@ -202,26 +202,10 @@
   ],
   [
     {
-      "filename": "ads/ads.md",
-      "attr": {
-        "data-state": "ads",
-        "id": "ads",
-        "data-background": "var(--ads-bg-color)"
-      }
-    },
-    {
       "filename": "ads/internal.md",
       "attr": {
         "data-state": "ads",
         "id": "internal-ads",
-        "data-background": "var(--ads-bg-color)"
-      }
-    },
-    {
-      "filename": "ads/header-bidding.md",
-      "attr": {
-        "data-state": "ads",
-        "id": "header-bidding",
         "data-background": "var(--ads-bg-color)"
       }
     },
