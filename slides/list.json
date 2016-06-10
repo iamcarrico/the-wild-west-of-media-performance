@@ -42,6 +42,14 @@
       }
     },
     {
+      "filename": "constraints/legacy.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "legacy",
+        "data-background": "var(--constraints-bg-color)"
+      }
+    },
+    {
       "filename": "constraints/redesign.md",
       "attr": {
         "data-state": "constraints",
@@ -63,32 +71,6 @@
         "data-state": "constraints",
         "id": "ad-constraints",
         "data-background": "var(--constraints-bg-color)"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "plan/plan.md",
-      "attr": {
-        "data-state": "plan",
-        "id": "plan",
-        "data-background": "var(--plan-bg-color)"
-      }
-    },
-    {
-      "filename": "plan/big.md",
-      "attr": {
-        "data-state": "plan",
-        "id": "big",
-        "data-background": "var(--plan-bg-color)"
-      }
-    },
-    {
-      "filename": "plan/micro.md",
-      "attr": {
-        "data-state": "plan",
-        "id": "micro",
-        "data-background": "var(--plan-bg-color)"
       }
     }
   ],

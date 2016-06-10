@@ -33,7 +33,14 @@
     "email": "github@iancarrico.com",
     "url": "https://github.com/iamcarrico"
   },
-  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Jason Ormand",
+      "email": "jason.ormand1@gmail.com",
+      "url": "https://github.com/okor"
+    }
+  ],
+  "license": "MIT or CC-BY-SA-4.0",
   "configuration": {
     "title": "The Wild West of Media Performance, A Vox Story",
     "hashtag": "#MediaPerf"
