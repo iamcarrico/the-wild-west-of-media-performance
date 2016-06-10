@@ -13,6 +13,28 @@ To run the presentation, use `npm start`— which will create a server running o
 
 
 
+Sections:
+  Images
+  Fonts
+  Ads
+  Testing
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Wild West of Media Performance: A Vox Story
+
 
 Proposed changes to the flow of the presentation:
 
