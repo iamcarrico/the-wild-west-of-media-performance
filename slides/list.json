@@ -66,6 +66,7 @@
       }
     }
   ],
+
   [
     {
       "filename": "plan/plan.md",
@@ -76,6 +77,64 @@
       }
     }
   ],
+
+  [
+    {
+      "filename": "testing/testing.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_tie_to_version_control.md",
+      "attr": {
+        "data-state": "testing_tie_to_version_control",
+        "id": "testing_tie_to_version_control",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_notifications.md",
+      "attr": {
+        "data-state": "testing_notifications",
+        "id": "testing_notifications",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_rum.md",
+      "attr": {
+        "data-state": "testing_rum",
+        "id": "testing_rum",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_discovery.md",
+      "attr": {
+        "data-state": "testing_discovery",
+        "id": "testing_discovery",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_final.md",
+      "attr": {
+        "data-state": "testing_final",
+        "id": "testing_final",
+        "data-background": "var(--lessons-bg-color)"
+      }
+    }
+
+  ],
+
   [
     {
       "filename": "images/images.md",
