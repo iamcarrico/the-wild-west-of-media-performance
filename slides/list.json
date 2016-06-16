@@ -137,62 +137,79 @@
 
   [
     {
-      "filename": "images/images.md",
+      "filename": "images/images_1.md",
       "attr": {
-        "data-state": "images",
-        "id": "images",
+        "data-state": "images_1",
+        "id": "images_1",
         "data-background": "var(--images-bg-color)"
       }
     },
+
     {
-      "filename": "images/delivery.md",
+      "filename": "images/images_2.md",
       "attr": {
-        "data-state": "images",
-        "id": "delivery",
+        "data-state": "images_2",
+        "id": "images_2",
         "data-background": "var(--images-bg-color)"
       }
     },
+
     {
-      "filename": "images/processing.md",
+      "filename": "images/images_3.md",
       "attr": {
-        "data-state": "images",
-        "id": "processing",
+        "data-state": "images_3",
+        "id": "images_3",
         "data-background": "var(--images-bg-color)"
       }
     },
+
     {
-      "filename": "images/formats.md",
+      "filename": "images/images_4.md",
       "attr": {
-        "data-state": "images",
-        "id": "formats",
+        "data-state": "images_4",
+        "id": "images_4",
         "data-background": "var(--images-bg-color)"
       }
     },
+
     {
-      "filename": "images/timing.md",
+      "filename": "images/images_5.md",
       "attr": {
-        "data-state": "images",
-        "id": "timing",
+        "data-state": "images_5",
+        "id": "images_5",
         "data-background": "var(--images-bg-color)"
       }
     },
+
     {
-      "filename": "images/timing-two.md",
+      "filename": "images/images_6.md",
       "attr": {
-        "data-state": "images",
-        "id": "timing-two",
+        "data-state": "images_6",
+        "id": "images_6",
         "data-background": "var(--images-bg-color)"
       }
     },
+
     {
-      "filename": "lessons/first.md",
+      "filename": "images/images_7.md",
       "attr": {
-        "data-state": "lessons",
-        "data-background": "var(--lessons-bg-color)",
-        "id": "first"
+        "data-state": "images_7",
+        "id": "images_7",
+        "data-background": "var(--images-bg-color)"
+      }
+    },
+
+    {
+      "filename": "images/images_8.md",
+      "attr": {
+        "data-state": "images_8",
+        "id": "images_8",
+        "data-background": "var(--lessons-bg-color)"
       }
     }
+
   ],
+  
   [
     {
       "filename": "fonts/fonts.md",
