@@ -91,8 +91,8 @@
     {
       "filename": "testing/testing_tie_to_version_control.md",
       "attr": {
-        "data-state": "testing_tie_to_version_control",
-        "id": "testing_tie_to_version_control",
+        "data-state": "testing",
+        "id": "version-control",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -100,8 +100,8 @@
     {
       "filename": "testing/testing_notifications.md",
       "attr": {
-        "data-state": "testing_notifications",
-        "id": "testing_notifications",
+        "data-state": "testing",
+        "id": "notifications",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -109,8 +109,8 @@
     {
       "filename": "testing/testing_rum.md",
       "attr": {
-        "data-state": "testing_rum",
-        "id": "testing_rum",
+        "data-state": "testing",
+        "id": "rum",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -118,8 +118,8 @@
     {
       "filename": "testing/testing_discovery.md",
       "attr": {
-        "data-state": "testing_discovery",
-        "id": "testing_discovery",
+        "data-state": "testing",
+        "id": "discovery",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -127,8 +127,8 @@
     {
       "filename": "testing/testing_final.md",
       "attr": {
-        "data-state": "testing_final",
-        "id": "testing_final",
+        "data-state": "testing",
+        "id": "testing-final",
         "data-background": "var(--lessons-bg-color)"
       }
     }
@@ -139,8 +139,8 @@
     {
       "filename": "images/images_1.md",
       "attr": {
-        "data-state": "images_1",
-        "id": "images_1",
+        "data-state": "images",
+        "id": "images",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -148,8 +148,8 @@
     {
       "filename": "images/images_2.md",
       "attr": {
-        "data-state": "images_2",
-        "id": "images_2",
+        "data-state": "images",
+        "id": "timing",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -157,8 +157,8 @@
     {
       "filename": "images/images_3.md",
       "attr": {
-        "data-state": "images_3",
-        "id": "images_3",
+        "data-state": "images",
+        "id": "delivery",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -166,8 +166,8 @@
     {
       "filename": "images/images_4.md",
       "attr": {
-        "data-state": "images_4",
-        "id": "images_4",
+        "data-state": "images",
+        "id": "delivery-example",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -175,8 +175,8 @@
     {
       "filename": "images/images_5.md",
       "attr": {
-        "data-state": "images_5",
-        "id": "images_5",
+        "data-state": "images",
+        "id": "formats",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -184,8 +184,8 @@
     {
       "filename": "images/images_6.md",
       "attr": {
-        "data-state": "images_6",
-        "id": "images_6",
+        "data-state": "images",
+        "id": "formats-example",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -193,8 +193,8 @@
     {
       "filename": "images/images_7.md",
       "attr": {
-        "data-state": "images_7",
-        "id": "images_7",
+        "data-state": "images",
+        "id": "processing",
         "data-background": "var(--images-bg-color)"
       }
     },
@@ -202,14 +202,12 @@
     {
       "filename": "images/images_8.md",
       "attr": {
-        "data-state": "images_8",
-        "id": "images_8",
+        "data-state": "images",
+        "id": "proloader-knowledge",
         "data-background": "var(--lessons-bg-color)"
       }
     }
-
   ],
-  
   [
     {
       "filename": "fonts/fonts.md",
@@ -262,6 +260,22 @@
   ],
   [
     {
+      "filename": "ads/ads.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "ads",
+        "data-background": "var(--ads-bg-color)"
+      }
+    },
+    {
+      "filename": "ads/header-bidding.md",
+      "attr": {
+        "data-state": "ads",
+        "id": "header-biddings",
+        "data-background": "var(--ads-bg-color)"
+      }
+    },
+    {
       "filename": "ads/internal.md",
       "attr": {
         "data-state": "ads",
@@ -291,40 +305,6 @@
         "data-state": "lessons",
         "data-background": "var(--lessons-bg-color)",
         "id": "room"
-      }
-    }
-  ],
-  [
-    {
-      "filename": "working/working.md",
-      "attr": {
-        "data-state": "working",
-        "id": "working",
-        "data-background": "var(--working-bg-color)"
-      }
-    },
-    {
-      "filename": "working/speedcurve.md",
-      "attr": {
-        "data-state": "working",
-        "id": "speedcurve",
-        "data-background": "var(--working-bg-color)"
-      }
-    },
-    {
-      "filename": "working/signal.md",
-      "attr": {
-        "data-state": "working",
-        "id": "signal",
-        "data-background": "var(--working-bg-color)"
-      }
-    },
-    {
-      "filename": "lessons/data.md",
-      "attr": {
-        "data-state": "lessons",
-        "data-background": "var(--lessons-bg-color)",
-        "id": "data"
       }
     }
   ],
