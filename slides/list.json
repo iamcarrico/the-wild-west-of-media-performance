@@ -242,11 +242,27 @@
       }
     },
     {
+      "filename": "fonts/frustration.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "frustration",
+        "data-background": "/resources/images/fonts/frustration.gif"
+      }
+    },
+    {
       "filename": "fonts/ffo.md",
       "attr": {
         "data-state": "fonts",
         "id": "ffo",
         "data-background": "var(--fonts-bg-color)"
+      }
+    },
+    {
+      "filename": "fonts/watcher.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "watcher",
+        "data-background": "/resources/images/fonts/watcher.gif"
       }
     },
     {
@@ -271,6 +287,14 @@
         "data-state": "fonts",
         "id": "fallbacks",
         "data-background": "var(--fonts-bg-color)"
+      }
+    },
+    {
+      "filename": "fonts/fallbacks-show.md",
+      "attr": {
+        "data-state": "fonts",
+        "id": "fallbacks-show",
+          "data-background": "/resources/images/fonts/fallbacks.gif"
       }
     },
     {
