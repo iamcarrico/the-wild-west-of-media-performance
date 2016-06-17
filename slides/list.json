@@ -246,7 +246,7 @@
       "attr": {
         "data-state": "fonts",
         "id": "frustration",
-        "data-background": "/resources/images/fonts/frustration.gif"
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/fonts/frustration.gif"
       }
     },
     {
@@ -262,7 +262,7 @@
       "attr": {
         "data-state": "fonts",
         "id": "watcher",
-        "data-background": "/resources/images/fonts/watcher.gif"
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/fonts/watcher.gif"
       }
     },
     {
@@ -294,7 +294,7 @@
       "attr": {
         "data-state": "fonts",
         "id": "fallbacks-show",
-          "data-background": "/resources/images/fonts/fallbacks.gif"
+          "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/fonts/fallbacks.gif"
       }
     },
     {
