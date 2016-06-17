@@ -1,5 +1,5 @@
 ## The Plan
 
-Note: So, what was the plan of attack? What did we do? We looked for the big easy wins first, then pealed back the (onion) layers to find the harder wins where we can.
+Note: So, what was the plan of attack? What did we do?
 
-Onions. Layers. This was totally Jason's idea to write that.
+Also, this is Steve McQueen from the amazing 1963 hit, `The Great Escape`. You should watch this film.
