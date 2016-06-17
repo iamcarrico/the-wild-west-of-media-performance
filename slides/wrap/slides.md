@@ -4,5 +4,4 @@
 
 ## Feedback
 
-Note:
-For the real thing: [iamc.co/velocityFeedback](https://iamc.co/velocityFeedback)
+[iamc.co/velocityFeedback](https://iamc.co/velocityFeedback)

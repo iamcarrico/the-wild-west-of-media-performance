@@ -42,6 +42,14 @@
       }
     },
     {
+      "filename": "constraints/legacy.md",
+      "attr": {
+        "data-state": "constraints",
+        "id": "legacy",
+        "data-background": "var(--constraints-bg-color)"
+      }
+    },
+    {
       "filename": "constraints/redesign.md",
       "attr": {
         "data-state": "constraints",
@@ -73,7 +81,23 @@
       "attr": {
         "data-state": "plan",
         "id": "plan",
-        "data-background": "var(--plan-bg-color)"
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/plan/the-great-escape.gif"
+      }
+    },
+    {
+      "filename": "plan/bankruptcy.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "bankruptcy",
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/plan/bankruptcy.gif"
+      }
+    },
+    {
+      "filename": "plan/started.md",
+      "attr": {
+        "data-state": "plan",
+        "id": "escape",
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/plan/the-great-escaped.gif"
       }
     }
   ],
