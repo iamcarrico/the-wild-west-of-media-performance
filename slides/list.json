@@ -314,13 +314,12 @@
         "id": "ads",
         "data-background": "var(--ads-bg-color)"
       }
-    },
-    {
-      "filename": "ads/header-bidding.md",
+    },{
+      "filename": "ads/capitan.md",
       "attr": {
         "data-state": "ads",
-        "id": "header-biddings",
-        "data-background": "var(--ads-bg-color)"
+        "id": "capitan",
+        "data-background": "/resources/images/ads/captain-slow-being-stopped.gif"
       }
     },
     {

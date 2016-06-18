@@ -1,0 +1,1 @@
+Note: The problem is not only are they (Capitan) slow, they also were setup long ago to be blocking. This was a very clear performance issue, but one very critical to our business model (and therefore makes people nervous to make at-large changes with them.)
