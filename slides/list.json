@@ -319,7 +319,7 @@
       "attr": {
         "data-state": "ads",
         "id": "capitan",
-        "data-background": "/resources/images/ads/captain-slow-being-stopped.gif"
+        "data-background": "https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/images/ads/captain-slow-being-stopped.gif"
       }
     },
     {
