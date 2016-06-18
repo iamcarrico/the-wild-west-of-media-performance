@@ -1,5 +1,7 @@
 ## Discovery
 
+<!-- .element: class="fragment" --><img src="resources/images/testing/justice_loaded.png">
+
 Note:
 
 I built a simple javascript performance toolbar (called Justice.js) for what I call "Performance Discovery". It loads on our sites for our loggged in product team members.
