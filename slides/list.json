@@ -113,13 +113,59 @@
     },
 
     {
-      "filename": "testing/testing_tie_to_version_control.md",
+      "filename": "testing/testing_rum.md",
       "attr": {
         "data-state": "testing",
-        "id": "version-control",
+        "id": "testing_rum",
+        "data-background": "resources/images/testing/rum_gone.gif"
+      }
+    },
+
+    {
+      "filename": "testing/testing_rum_not_so_much.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_rum_not_so_much",
         "data-background": "var(--testing-bg-color)"
       }
     },
+
+    {
+      "filename": "testing/testing_rum_ads_change.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_rum_ads_change",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_rum_wild_variation.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_rum_wild_variation",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_rum_transient_popularity.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_rum_transient_popularity",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_rum_final.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_rum_final",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
 
     {
       "filename": "testing/testing_notifications.md",
@@ -130,14 +176,7 @@
       }
     },
 
-    {
-      "filename": "testing/testing_rum.md",
-      "attr": {
-        "data-state": "testing",
-        "id": "rum",
-        "data-background": "var(--testing-bg-color)"
-      }
-    },
+
 
     {
       "filename": "testing/testing_discovery.md",
