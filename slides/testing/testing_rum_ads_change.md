@@ -1,6 +1,7 @@
 ### Ads change on every page load
-
 <img src="resources/images/testing/ads_change_fast.gif">
+
+<!-- .element: class="fragment" --> Large variations in perf stats
  
 
 Note:

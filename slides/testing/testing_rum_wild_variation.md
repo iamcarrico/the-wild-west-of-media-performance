@@ -2,6 +2,8 @@
 
 <img src="resources/images/testing/article_differences.png">
 
+<!-- .element: class="fragment" --> Even siloed data tells an incomplete story
+
 Note:
 
 Content differs wildly even for the same page type
