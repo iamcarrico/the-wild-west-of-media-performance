@@ -101,7 +101,6 @@
       }
     }
   ],
-
   [
     {
       "filename": "testing/testing_1.md",
@@ -111,7 +110,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_2.md",
       "attr": {
@@ -120,7 +118,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_3.md",
       "attr": {
@@ -129,7 +126,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_4.md",
       "attr": {
@@ -138,7 +134,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_5.md",
       "attr": {
@@ -147,7 +142,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_6.md",
       "attr": {
@@ -156,7 +150,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_7.md",
       "attr": {
@@ -166,15 +159,6 @@
       }
     },
     {
-      "filename": "testing/testing_7_b.md",
-      "attr": {
-        "data-state": "testing",
-        "id": "testing_7_b",
-        "data-background": "var(--testing-bg-color)"
-      }
-    },
-
-    {
       "filename": "testing/testing_8.md",
       "attr": {
         "data-state": "testing",
@@ -182,7 +166,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_9.md",
       "attr": {
@@ -191,7 +174,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_10.md",
       "attr": {
@@ -200,7 +182,6 @@
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_11.md",
       "attr": {
@@ -209,10 +190,7 @@
         "data-background": "var(--lessons-bg-color)"
       }
     }
-
-
   ],
-
   [
     {
       "filename": "images/images_1.md",
@@ -222,7 +200,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_2.md",
       "attr": {
@@ -231,7 +208,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_3.md",
       "attr": {
@@ -240,7 +216,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_4.md",
       "attr": {
@@ -249,7 +224,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_5.md",
       "attr": {
@@ -258,7 +232,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_6.md",
       "attr": {
@@ -267,7 +240,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_7.md",
       "attr": {
@@ -276,7 +248,6 @@
         "data-background": "var(--images-bg-color)"
       }
     },
-
     {
       "filename": "images/images_8.md",
       "attr": {

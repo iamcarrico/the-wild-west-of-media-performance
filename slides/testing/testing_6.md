@@ -2,7 +2,7 @@
 
 <img src="resources/images/testing/git_annotations.png">
 
-<!-- .element: class="fragment" --> <span style="font-size: 50%;">"d2478ce" was a naughty deploy</span>
+<span style="font-size: 50%;">"d2478ce" was a naughty deploy</span>
 
 Note:
 
