@@ -107,7 +107,7 @@
       "filename": "testing/testing_1.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_1",
+        "id": "testing",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -116,7 +116,7 @@
       "filename": "testing/testing_2.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_2",
+        "id": "rum",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -125,7 +125,7 @@
       "filename": "testing/testing_3.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_3",
+        "id": "sweet-synth-beats",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -134,7 +134,7 @@
       "filename": "testing/testing_4.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_4",
+        "id": "webpagetest",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -143,7 +143,7 @@
       "filename": "testing/testing_5.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_5",
+        "id": "flow",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -152,7 +152,7 @@
       "filename": "testing/testing_6.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_6",
+        "id": "git",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -161,11 +161,10 @@
       "filename": "testing/testing_7.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_7",
+        "id": "notifications",
         "data-background": "var(--testing-bg-color)"
       }
     },
-
     {
       "filename": "testing/testing_7_b.md",
       "attr": {
@@ -179,7 +178,7 @@
       "filename": "testing/testing_8.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_8",
+        "id": "cooldown",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -188,7 +187,7 @@
       "filename": "testing/testing_9.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_9",
+        "id": "justice-league-now",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -197,7 +196,7 @@
       "filename": "testing/testing_10.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_10",
+        "id": "lightbike",
         "data-background": "var(--testing-bg-color)"
       }
     },
@@ -206,7 +205,7 @@
       "filename": "testing/testing_11.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing_11",
+        "id": "lessons-lessons-yup",
         "data-background": "var(--lessons-bg-color)"
       }
     }
