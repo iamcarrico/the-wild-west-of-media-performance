@@ -104,58 +104,113 @@
 
   [
     {
-      "filename": "testing/testing.md",
+      "filename": "testing/testing_1.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing",
+        "id": "testing_1",
         "data-background": "var(--testing-bg-color)"
       }
     },
 
     {
-      "filename": "testing/testing_tie_to_version_control.md",
+      "filename": "testing/testing_2.md",
       "attr": {
         "data-state": "testing",
-        "id": "version-control",
+        "id": "testing_2",
         "data-background": "var(--testing-bg-color)"
       }
     },
 
     {
-      "filename": "testing/testing_notifications.md",
+      "filename": "testing/testing_3.md",
       "attr": {
         "data-state": "testing",
-        "id": "notifications",
+        "id": "testing_3",
         "data-background": "var(--testing-bg-color)"
       }
     },
 
     {
-      "filename": "testing/testing_rum.md",
+      "filename": "testing/testing_4.md",
       "attr": {
         "data-state": "testing",
-        "id": "rum",
+        "id": "testing_4",
         "data-background": "var(--testing-bg-color)"
       }
     },
 
     {
-      "filename": "testing/testing_discovery.md",
+      "filename": "testing/testing_5.md",
       "attr": {
         "data-state": "testing",
-        "id": "discovery",
+        "id": "testing_5",
         "data-background": "var(--testing-bg-color)"
       }
     },
 
     {
-      "filename": "testing/testing_final.md",
+      "filename": "testing/testing_6.md",
       "attr": {
         "data-state": "testing",
-        "id": "testing-final",
+        "id": "testing_6",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_7.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_7",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_7_b.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_7_b",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_8.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_8",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_9.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_9",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_10.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_10",
+        "data-background": "var(--testing-bg-color)"
+      }
+    },
+
+    {
+      "filename": "testing/testing_11.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing_11",
         "data-background": "var(--lessons-bg-color)"
       }
     }
+
 
   ],
 
