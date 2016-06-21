@@ -1,13 +1,13 @@
-## Delivery
+## Webp
+
+<!-- .element: class="fragment" --><video autoplay loop><source src="https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/video/webp.mp4" type="video/mp4" /></video> <br/>Huge win!
 
 Note:
 
-Once you know *when* you want to load an image, you can choose the way that you deliver it.
+- I knew of Webp
+- Our sites 50%+ Chrome
+- Thumbor supports
+- So I deployed it
+- Huge win!
 
-If you want to use the leverage the preloader you only have two choices
-* <IMG> element
-* <PICTURE> element
-  * We recently started using the Picture element to delivery responsive images and select the best MIME type for that browser.
-
-
-NEXT SLIDE
+Thumbor also had the ability to support a bunch of formats, including Google's Webp which is supported on Chrome. We generally see something like 50% + Chrome usage on most of our sites so adding support for Webp could be high impact. And it was! Probably our first big win resulted in decreased load times for a large percentage of our users - ranging anywhere from 30-90% depending on the page.

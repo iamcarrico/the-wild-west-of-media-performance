@@ -1,18 +1,13 @@
-<video  autoplay loop>
-	<source src="https://iamcarrico.github.io/the-wild-west-of-media-performance/resources/video/picture_element.mp4" type="video/mp4" />
-</video>
+### Preloader via Picture element
+<!-- .element: class="fragment" --><img src="resources/images/images/picture_element.gif" /> <br />Not bad
 
 
 Note:
 
-If you want to load some images a bit later, then can do that with javascript.
+Lazy loading is good for loading non-critical image which also saves...
+* bandwidth on both sides
+* reduces client resouce contention (network & CPU)
 
-* Reduces client resource contention (network & CPU)
-* Saves the user bandwidth
-* Saves us $$ on CDN costs
 
-** We use all three methods of loading images, depending on the image placement.
-
-In the future, we'll be using the <Picture> element more and more.
-
-If client hints gets enough browser support, I'd love to use that to simplify the <Picture> element markup.
+But if you want to load responsive images quickly you should leverage the browsers preloader
+* using the Picture element

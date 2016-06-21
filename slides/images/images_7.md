@@ -1,11 +1,7 @@
-## Processing
+## DSSIM Visualization
+<img src="resources/images/images/airship_diff.png" />
 
 Note:
 
-Real-time Processing
-  * SAAS
-  * Open source
-Pre Processing
-  Nope
+This is a map of the psychovisual differences from source to processed.
 
-We choose to go with Thumbor, an open source image processing solution. It's pretty great and 
