@@ -166,15 +166,6 @@
       }
     },
     {
-      "filename": "testing/testing_7_b.md",
-      "attr": {
-        "data-state": "testing",
-        "id": "testing_7_b",
-        "data-background": "var(--testing-bg-color)"
-      }
-    },
-
-    {
       "filename": "testing/testing_8.md",
       "attr": {
         "data-state": "testing",
