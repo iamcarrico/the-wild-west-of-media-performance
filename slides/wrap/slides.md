@@ -4,4 +4,4 @@
 
 ## Feedback
 
-[iamc.co/velocityFeedback](https://iamc.co/velocityFeedback)
+We'd love to get your feedback on the Velocity App / website.
