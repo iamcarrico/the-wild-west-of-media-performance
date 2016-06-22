@@ -4,5 +4,5 @@
 
 Note:
 
-- used for development
-- testing private, sandboxed sites
+- private Webpagetest cluster for testing our work on sandboxes, before it gets deployed to production
+- also used to test in house ads, which Ian will talk about later

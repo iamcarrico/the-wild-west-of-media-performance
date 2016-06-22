@@ -4,7 +4,7 @@
 
 Note:
 
-- Already on
-- Good for big picture, not for drilling
-- Didn't have SpeedIndex or videos (which capture the "feel")
-- Need Synthetic
+- RUM for GA was already on, lots of historical data
+- Good data for big picture for real users
+- Not good for deep analysis or getter the feel of our sites (via videos)
+- Quickly decided we also wanted Synthetic testing data
